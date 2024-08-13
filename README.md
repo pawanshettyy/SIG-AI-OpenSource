@@ -69,7 +69,7 @@
 </table>
 
 <p align="center">
-    Have an idea that's not listed? <a href="https://github.com/SIG-AI-OpenSource/issues">Open an issue</a> to suggest it!
+    Have an idea that's not listed? <a href="https://github.com/SIG-AI-OpenSource/SIG-AI-OpenSource/issues">Open an issue</a> to suggest it!
 </p>
 
 <h2 align="center">🤝 How to Contribute</h2>
