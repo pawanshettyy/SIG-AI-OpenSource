@@ -40,7 +40,7 @@
             </td>
             <td>
                 <ul>
-                    <li>GitHub ID 1</li>
+                    <li><a href="https://github.com/pawanshettyy" target="_blank">pawanshettyy</a></li>
                     <li>GitHub ID 2</li>
                 </ul>
             </td>
